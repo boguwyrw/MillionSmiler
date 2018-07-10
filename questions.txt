@@ -1,0 +1,139 @@
+{
+	"questions":[
+	{
+	"questionValue": "Pytanie za 100 :-)",
+	"question": "Czy mucha to:",
+	"answerA": "plaz",
+	"answerB": "gad",
+	"answerC": "ssak",
+	"answerD": "owad",
+	"correctAnswer": "D"
+	},
+	{
+	"questionValue": "Pytanie za 200 :-)",
+	"question": "Czy stolica polski jest:",
+	"answerA": "Warszawa",
+	"answerB": "Poznan",
+	"answerC": "Olsztyn",
+	"answerD": "Krakow",
+	"correctAnswer": "A"
+	},
+	{
+	"questionValue": "Pytanie za 300 :-)",
+	"question": "W jakiej temperaturze wrze woda:",
+	"answerA": "100 st. Celcjusza",
+	"answerB": "10 st. Celcjusza",
+	"answerC": "50 st. Celcjusza",
+	"answerD": "105 st. Celcjusza",
+	"correctAnswer": "A"
+	},
+	{
+	"questionValue": "Pytanie za 500 :-)",
+	"question": "W ktorym roku Polska dolaczyla do Unii Europejskiej:",
+	"answerA": "2000",
+	"answerB": "2004",
+	"answerC": "2007",
+	"answerD": "1998",
+	"correctAnswer": "B"
+	},
+	{
+	"questionValue": "Pytanie za gwarantowany 1.000 :-)",
+	"question": "Ktory kraj organizuje Mistrzostwa Swiata w Pilce Noznej w 2018:",
+	"answerA": "Niemcy",
+	"answerB": "Norwegia",
+	"answerC": "Rosja",
+	"answerD": "Kanada",
+	"correctAnswer": "C"
+	},
+	{
+	"questionValue": "Pytanie za 2.000 :-)",
+	"question": "Kto zdobyl pokojowa nagrode Nobla w 2017:",
+	"answerA": "GMC - Swiatowe centrum medyczne",
+	"answerB": "Fundacja Dzieci Afryki",
+	"answerC": "ONZ - Organizacja Narodow Zjednoczonych",
+	"answerD": "ICAN - Miedzynarodowa kampania na rzecz zniesienia broni nuklearnej",
+	"correctAnswer": "D"
+	},
+	{
+	"questionValue": "Pytanie za 4.000 :-)",
+	"question": "Jaki jest wynik rownania 2x2+2x2+2:",
+	"answerA": "14",
+	"answerB": "10",
+	"answerC": "32",
+	"answerD": "16",
+	"correctAnswer": "B"
+	},
+	{
+	"questionValue": "Pytanie za 8.000 :-)",
+	"question": "100 stopni Celcjusza ile to Fahrenheita:",
+	"answerA": "100",
+	"answerB": "232",
+	"answerC": "212",
+	"answerD": "132",
+	"correctAnswer": "C"
+	},
+	{
+	"questionValue": "Pytanie za 16.000 :-)",
+	"question": "Ktore polskie miasto znalazlo sie na planszy Monopoly:",
+	"answerA": "Poznan",
+	"answerB": "Gdynia",
+	"answerC": "Wroclaw",
+	"answerD": "Gdansk",
+	"correctAnswer": "B"
+	},
+	{
+	"questionValue": "Pytanie za 32.000 :-)",
+	"question": "W jakiej temperturze przechowuje sie gaz LNG aby zachowal postac ciekla:",
+	"answerA": "ponizej -100 stopni",
+	"answerB": "ponizej +32 stopni",
+	"answerC": "ponizej -162 stopni",
+	"answerD": "ponizej -82 stopni",
+	"correctAnswer": "C"
+	},
+	{
+	"questionValue": "Pytanie za 64.000 :-)",
+	"question": "Ile jest planet ukladu slonecznego:",
+	"answerA": "6",
+	"answerB": "8",
+	"answerC": "9",
+	"answerD": "7",
+	"correctAnswer": "B"
+	},
+	{
+	"questionValue": "Pytanie za 125.000 :-)",
+	"question": "Ile Oscarow zdobyl film Titanic:",
+	"answerA": "10",
+	"answerB": "11",
+	"answerC": "9",
+	"answerD": "12",
+	"correctAnswer": "B"
+	},
+	{
+	"questionValue": "Pytanie za 250.000 :-)",
+	"question": "Ile wynosi predkosc swiatla:",
+	"answerA": "299 792 458 m/s",
+	"answerB": "299 792 000 m/s",
+	"answerC": "299 792 058 m/s",
+	"answerD": "298 792 458 m/s",
+	"correctAnswer": "A"
+	},
+	{
+	"questionValue": "Pytanie za 500.000 :-)",
+	"question": "Jak szybko bije serce kolibra:",
+	"answerA": "od 200 do 800 razy na minute",
+	"answerB": "od 250 do 1600 razy na minute",
+	"answerC": "od 100 do 1200 razy na minute",
+	"answerD": "od 150 do 900 razy na minute",
+	"correctAnswer": "C"
+	},
+	{
+	"questionValue": "Pytanie za 1.000.000 :-)",
+	"question": "Ile wynosi powierzchnia wody na kuli ziemskiej:",
+	"answerA": "72,2%",
+	"answerB": "68,5%",
+	"answerC": "70,2%",
+	"answerD": "70,8%",
+	"correctAnswer": "D"
+	}
+	]
+}
